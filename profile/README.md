@@ -3,7 +3,7 @@
 We are creating top-grade software products for all. From web stores to other utility websites, we're always looking to make an impact on your business.<br />
 
 # Contact Us
-Join our [Discord](discord.gg/faxes) or email us at [mailto:support@weblutions.com](support@weblutions.com) <br>
+Join our [Discord](discord.gg/faxes) or email [support.](mailto:support@weblutions.com) <br>
 [Website](https://weblutions.com)
 
 
